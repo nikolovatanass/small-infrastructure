@@ -9,5 +9,6 @@ The private networks are connected to the public networks via NAT
 
 There is a load balancer configured to accept HTTP traffic and forward it to a autoscaling group
 
+The lambda function was added to via the console.
 
 ![exam drawio](https://github.com/nikolovatanass/small-infrastructure/assets/131749298/0c8e27da-04cc-4c5e-adf6-9bd426521af8)
